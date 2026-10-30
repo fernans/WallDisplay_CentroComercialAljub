@@ -1,0 +1,44 @@
+<config>
+  <plan>
+    <bloque hora="0000"/>
+    <bloque hora="900" random="false">
+      <content url="media/imagen2.jpg" time="5"/>
+      <content url="media/video1.mov" time="5"/>
+    </bloque>
+    <bloque hora="2100" random="false"/>
+    <bloque hora="2200"/>
+  </plan>
+  <plan/>
+  <plan>
+    <bloque hora="0000"/>
+    <bloque hora="2200"/>
+  </plan>
+  <plan>
+    <bloque hora="0" random="false"/>
+  </plan>
+  <plan>
+    <bloque hora="0000"/>
+    <bloque hora="900" random="false">
+      <content url="media/imagen3.png" time="5"/>
+    </bloque>
+    <bloque hora="2100" random="false"/>
+    <bloque hora="2200"/>
+  </plan>
+  <plan/>
+  <plan/>
+  <plan/>
+  <plan/>
+  <plan/>
+  <dias>
+    <lunes plan="2"/>
+    <martes plan="0"/>
+    <miercoles plan="2"/>
+    <jueves plan="0"/>
+    <viernes plan="0"/>
+    <sabado plan="0"/>
+    <domingo plan="0"/>
+  </dias>
+  <fechas>
+    <fecha fecha="0602" plan="4" titulo="-- NUEVO --"/>
+  </fechas>
+</config>
